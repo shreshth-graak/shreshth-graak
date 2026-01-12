@@ -46,7 +46,7 @@ Strong foundation in building RESTful APIs, designing layered architectures, and
 ### **FluxUrl** — URL Shortener Service
 High-performance URL shortening service built with Spring Boot. Implements layered architecture (Controller-Service-Repository) with custom hashing algorithms for unique link generation. Features include link expiration, click analytics, and support for custom aliases.  
 **Stack:** Java, Spring Boot, Spring Data JPA, H2, Maven  
-**[View Project →](https://github.com/shreshth-graak)**
+**[View Project →](https://github.com/shreshth-graak/FluxURL)**
 
 ### **Blood Donation Platform**
 Web platform connecting blood donors with receivers through real-time request tracking. Implements role-based access control for donors, receivers, and administrators. Features inventory management and distribution workflows for blood bank operations.  
