@@ -2,7 +2,7 @@
 
 # Shreshth Kumar
 
-**Software Engineer | Backend Architect | System Designer**
+**Software Engineer | Backend Focused**
 
 *Building secure, scalable systems with clean code and systematic problem-solving*
 
@@ -23,7 +23,7 @@ Strong foundation in building RESTful APIs, designing layered architectures, and
 <td valign="top" width="33%">
 
 ### Languages
-`C++` `Python` `Java` `PHP` `JavaScript` `SQL` `Solidity`
+`C++` `Python` `Java` `PHP` `JavaScript` `SQL` `HTML/CSS`
 
 </td>
 <td valign="top" width="33%">
